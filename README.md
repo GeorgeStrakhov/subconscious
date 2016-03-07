@@ -1,7 +1,5 @@
 #SUBconscious
 
-[usesub.co](http://usesub.co)
-
 SUBcoscious (or SUB for short) is your new creative thinking partner, powered by artificial creativity and global subconscious of the world wide web.
 
 --------
